@@ -78,8 +78,10 @@ endmodule
 ```
 
 **RTL Schematic**
+![WhatsApp Image 2024-03-30 at 10 01 48](https://github.com/aaron-h-2k5/HALF_ADDER_SUBTRACTOR/assets/144250957/609b5028-a229-48f4-bd03-4dbe6ee81de8)
 
 **Output/TIMING Waveform**
+![WhatsApp Image 2024-03-30 at 10 01 49](https://github.com/aaron-h-2k5/HALF_ADDER_SUBTRACTOR/assets/144250957/68286380-b3e7-4505-aeb0-88541b4bde3c)
 
 **Result:**
 Thus the program to implement Half Adder and Subtractor is executed successfully.
